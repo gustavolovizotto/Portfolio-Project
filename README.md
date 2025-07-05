@@ -34,26 +34,6 @@ Um portfólio moderno e interativo construído com React, TypeScript, Three.js e
 - **ESLint** - Linting e formatação de código
 - **TypeScript ESLint** - Regras específicas para TypeScript
 
-## 📁 Estrutura do Projeto
-
-```
-portfolio/
-├── public/
-│   ├── images/           # Imagens e ícones
-│   │   ├── logos/        # Logos de tecnologias e empresas
-│   │   └── textures/     # Texturas para modelos 3D
-│   └── models/           # Modelos 3D (.glb)
-├── src/
-│   ├── components/       # Componentes reutilizáveis
-│   │   └── models/       # Componentes 3D
-│   ├── constants/        # Dados e configurações
-│   ├── sections/         # Seções principais do site
-│   ├── App.tsx          # Componente principal
-│   └── main.tsx         # Ponto de entrada
-├── package.json
-└── vite.config.ts
-```
-
 ## 🚀 Como Executar
 
 ### Pré-requisitos
