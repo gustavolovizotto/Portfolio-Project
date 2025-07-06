@@ -2,10 +2,10 @@ interface ButtonProps {
   text: string;
   className?: string;
   id?: string;
-  targetId?: string; // ID da seção para onde scrollar
+  targetId?: string; 
 }
 
-const Button: React.FC<ButtonProps> = ({ text, className, id, targetId }) => {
+const Button: React.FC<ButtonProps> = ({ text, className, targetId }) => {
   return (
     <a
       onClick={(e: React.MouseEvent<HTMLAnchorElement>) => {
