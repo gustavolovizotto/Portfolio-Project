@@ -148,7 +148,7 @@ const techStackImgs: TechStack[] = [
   },
   {
     path: "/images/logos/react.png",
-    name: "Python",
+    name: "React Native",
   },
   {
     path: "/images/logos/node.png",
@@ -156,11 +156,11 @@ const techStackImgs: TechStack[] = [
   },
   {
     path: "/images/logos/three.png",
-    name: "Three.js",
+    name: "TypeScript",
   },
   {
     path: "/images/logos/git.svg",
-    name: "Git",
+    name: "MySQL",
   },
 ];
 
@@ -233,7 +233,7 @@ const testimonials: TestimonialItem[] = [
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "O Gustavo é excepcional. Essa frase descreve exatamente o que ele proporciona. Com uma alta capacidade de aprendizado e postura assertiva, trabalhar com ele é certeza de uma comunicação objetiva e garantia de um serviço de qualidade.",
     author: "Felipe de Souza Gomes",
     imgPath: "/images/felipe.png",
     company: "@Unect",
