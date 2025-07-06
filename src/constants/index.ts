@@ -205,7 +205,7 @@ const expCards: ExperienceItem[] = [
     review: "a",
     imgPath: "/images/logoUnect.svg",  
     logoPath: "/images/unectlogo2.png",  
-    title: "Assesor de Desenvolvimento Frontend",
+    title: "Assessor de Desenvolvimento Frontend",
     date: "Maio 2025 - Atual",
     responsibilities: [
       "Auxiliar no desenvolvimento de aplicações web, focando na escalabilidade.",
