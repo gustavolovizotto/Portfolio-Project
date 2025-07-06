@@ -188,21 +188,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Autor
-
-**Gustavo** 
-- 🌐 Website: [seu-portfolio.com](https://seu-portfolio.com) _(Personalize com seu domínio)_
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-usuario) _(Atualize com seu perfil)_
-- 🐱 GitHub: [seu-github](https://github.com/seu-usuario) _(Atualize com seu usuário)_
-- 📧 Email: seu.email@example.com _(Atualize com seu email)_
-
-## 🙏 Agradecimentos
-
-- [Three.js](https://threejs.org/) pela incrível biblioteca 3D
-- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber) pelo wrapper React
-- [GSAP](https://greensock.com/gsap/) pelas animações suaves
-- [Vite](https://vitejs.dev/) pela experiência de desenvolvimento rápida
-
----
-
 ⭐ Se este projeto te ajudou, não esqueça de dar uma estrela!
