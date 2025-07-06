@@ -17,7 +17,7 @@ export interface CounterItem {
 
 export interface LogoIcon {
   imgPath: string;
-}                               
+}
 
 export interface FeatureCard {
   icon: string;
@@ -226,14 +226,14 @@ const testimonials: TestimonialItem[] = [
   },
   {
     quote:
-      "---",
+      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
     author: "João Vitor Romani",
     imgPath: "/images/jaoromani.png",
     company: "@Unect",
   },
   {
     quote:
-      "O Gustavo é excepcional. Essa frase descreve exatamente o que ele proporciona. Com uma alta capacidade de aprendizado e postura assertiva, trabalhar com ele é certeza de uma comunicação objetiva e garantia de um serviço de qualidade.",
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     author: "Felipe de Souza Gomes",
     imgPath: "/images/felipe.png",
     company: "@Unect",
@@ -249,7 +249,7 @@ const socialImgs: SocialImg[] = [
   {
     imgPath: "/images/github.png",
     altText: "GitHub",
-    link: "https://github.com/gustavolovizotto",
+    link: "https://github.com/gustavolovizotto", 
   },
   {
     imgPath: "/images/linkedin.png",
