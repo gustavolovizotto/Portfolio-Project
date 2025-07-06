@@ -2,16 +2,17 @@ interface ButtonProps {
   text: string;
   className?: string;
   id?: string;
+  targetId?: string; // ID da seção para onde scrollar
 }
 
-const Button: React.FC<ButtonProps> = ({ text, className, id }) => {
+const Button: React.FC<ButtonProps> = ({ text, className, id, targetId }) => {
   return (
     <a
       onClick={(e: React.MouseEvent<HTMLAnchorElement>) => {
         e.preventDefault(); 
 
-        const target = document.getElementById("counter"); 
-        if (target && id) {
+        const target = document.getElementById(targetId || "counter"); 
+        if (target) {
           const offset = window.innerHeight * 0.15; 
 
           

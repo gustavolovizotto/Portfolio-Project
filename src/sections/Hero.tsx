@@ -50,13 +50,12 @@ const Hero: React.FC = () => {
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
               Olá, sou Gustavo, um desenvolvedor brasileiro apaixonado por Frontend
-              
             </p>
 
             <Button
-              text="Olhe meus projetos"
+              text="Meus projetos"
               className="md:w-80 md:h-16 w-60 h-12"
-              id="counter"
+              targetId="work"
             />
           </div>
         </header>
