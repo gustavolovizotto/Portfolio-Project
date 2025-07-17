@@ -226,7 +226,7 @@ const testimonials: TestimonialItem[] = [
   },
   {
     quote:
-      "-------",
+      "O Gustavo é um profissional extremamente competente. Ele tem como pontos fortes à comunicação assertiva, proatividade, criatividade e senso de responsabilidade. Cumpre com excelência seus deveres e entrega resultados. Sempre muito engajado e prestativo com a equipe. Trabalhar com ele é uma experiência prazerosa!",
     author: "João Vitor Romani",
     imgPath: "/images/jaoromani.png",
     company: "@Unect",
