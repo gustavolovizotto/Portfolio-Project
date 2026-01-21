@@ -213,6 +213,31 @@ const expCards: ExperienceItem[] = [
       "Contribuir com projetos de APPs Mobile e Web, utilizando ReactJS e ReactNative",
     ],
   },
+  {
+    review: "b",
+    imgPath: "/images/logoUnect.svg",  
+    logoPath: "/images/unectlogo2.png",  
+    title: "Gerente de Desenvolvimento Frontend",
+    date: "Janeiro 2026 - Atual",
+    responsibilities: [
+      "Trabalhar na gestão de projetos, garantindo a entrega de soluções escaláveis e eficientes.",
+      "Inovar criando novos processos que garatam maior qualidade na entrega de projetos e agreguem mais segurança e valor a entrega.",
+      "Responsável por planejar estratégias para aplicar o plano tático no operacional, garantindo a execução eficaz dos projetos.",
+      "Liderar processos seletivos e entrevistar candidatos para fortalecer a equipe de desenvolvimento.",
+    ],
+  },
+  {
+    review: "c",
+    imgPath: "/images/logo-Monest-roxo-vertical.png",  
+    logoPath: "/images/logo-Monest-roxo-vertical.png",  
+    title: "Software Developer",
+    date: "Setembro 2025 - Atual",
+    responsibilities: [
+      "Auxiliar no desenvolvimento de backend com foco em criação de novas features relacionadas a whatsapp.",
+      "Trabalhar com engenheiros de backend para integrar APIs de forma eficaz com o frontend.",
+      "Contribuir com a construção de novas features para o sistema Monest no frontend.",
+    ],
+  },
 ];
 
 
