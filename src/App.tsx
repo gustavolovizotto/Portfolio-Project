@@ -2,6 +2,7 @@ import Testimonials from "./sections/Testimonials";
 import Footer from "./sections/Footer";
 import Contact from "./sections/Contact";
 // import TechStack from "./sections/TechStack";
+import TechStackSimple from "./sections/TechStackSimple";
 import Experience from "./sections/Experience";
 import Hero from "./sections/Hero";
 import ShowcaseSection from "./sections/ShowcaseSection";
@@ -16,7 +17,7 @@ const App: React.FC = () => (
     {/*Implementar showlogocase */}
     <FeatureCards />
     <Experience />
-    {/* <TechStack /> */}
+    <TechStackSimple />
     <Testimonials />
     <Contact />
     <Footer />

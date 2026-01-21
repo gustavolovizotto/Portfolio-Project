@@ -162,6 +162,34 @@ const techStackImgs: TechStack[] = [
     path: "/images/logos/git.svg",
     name: "MySQL",
   },
+  {
+    path: "/images/logos/nestjs.png",
+    name: "NestJS",
+  },
+  {
+    path: "/images/logos/nextjs.png",
+    name: "Next.js",
+  },
+  {
+    path: "/images/logos/aws.png",
+    name: "AWS",
+  },
+  {
+    path: "/images/logos/tailwind.png",
+    name: "Tailwind CSS",
+  },
+  {
+    path: "/images/logos/newrelic.png",
+    name: "New Relic",
+  },
+  {
+    path: "/images/logos/metabase.png",
+    name: "Metabase",
+  },
+  {
+    path: "/images/logos/meta.png",
+    name: "Meta Integrations",
+  },
 ];
 
 const techStackIcons: TechStack[] = [
@@ -184,6 +212,34 @@ const techStackIcons: TechStack[] = [
   {
     path: "/images/Sql3dIcon.glb",
     name: "MySQL",
+  },
+  {
+    path: "/images/Nest3dIcon.glb",
+    name: "NestJS",
+  },
+  {
+    path: "/images/Next3dIcon.glb",
+    name: "Next.js",
+  },
+  {
+    path: "/images/Aws3dIcon.glb",
+    name: "AWS",
+  },
+  {
+    path: "/images/Tailwind3dIcon.glb",
+    name: "Tailwind CSS",
+  },
+  {
+    path: "/images/NewRelic3dIcon.glb",
+    name: "New Relic",
+  },
+  {
+    path: "/images/Metabase3dIcon.glb",
+    name: "Metabase",
+  },
+  {
+    path: "/images/Meta3dIcon.glb",
+    name: "Meta Integrations",
   },
 ];
 
